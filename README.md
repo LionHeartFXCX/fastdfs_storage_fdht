@@ -1,0 +1,3 @@
+# fastdfs_storage_fdht
+结合有fastdht的storage节点
+fastdht作为storage节点的一个优化策略。
